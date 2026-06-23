@@ -21,3 +21,10 @@ Return the result as:
 - latest commit
 - next safe Git action
 
+## Test text
+
+지연
+
+This line is added for a simple text insertion test.
+이 문장은 README 수정 테스트를 위해 추가했습니다.
+Testing small edits, Korean text, and mixed-language content.
